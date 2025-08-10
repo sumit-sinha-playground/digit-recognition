@@ -27,6 +27,6 @@ Thumbs.db
 # Logs
 *.log
 
-# Output
-data/
+# Code Files
+data/mnist_train.csv
 bin/

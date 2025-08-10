@@ -25,6 +25,8 @@ This project implements a machine learning pipeline to identify handwritten digi
 
 ## Usage
 
+Before starting ensure to unzip the `mnist_train.csv.zip`. This file will act as the training data source for the neural network.
+
 To train the neural network, open the `train.ipynb` file and run all the cells. This will generate a `trained_params.npz` file in the `bin` folder. This file hold the trained parameters i.e. the weight and bias matrix which can then be used in `predict.ipynb` to test the results.
 
 ## License
